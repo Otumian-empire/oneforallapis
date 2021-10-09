@@ -1,0 +1,27 @@
+{
+  "name": "oneforallapis",
+  "version": "1.0.0",
+  "description": "Integerates multiple APIs such as:",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.22.0",
+    "cors": "^2.8.5",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Otumian-empire/oneforallapis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Otumian-empire/oneforallapis/issues"
+  },
+  "homepage": "https://github.com/Otumian-empire/oneforallapis#readme"
+}
