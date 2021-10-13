@@ -2,44 +2,82 @@
 
 <!-- environment -->
 
-https://nodejs.org/
+## environment
+
+- [ubuntu-18]
+- [vscode]
+- [nodejs]
 
 <!-- packages used -->
 
-https://www.express.com/
-https://axios-http.com/docs/
-https://tailwindui.com/
-https://ejs.co
+## packages
+
+- [express]
+- [axois]
+- [tailwindcss]
+- [ejs]
 
 <!-- list of apis -->
 
-https://apilist.fun/
+## api lists
+
+- [apilist]
 
 <!-- thecatapi -->
 
-https://documenter.getpostman.com/view/5578104/RWgqUxxh#19c0515e-27da-415a-b844-bc7fe37d038c
-https://thecatapi.com/
+## thecatapi
+
+- [thecatapi]
+- `aden@thatapiguy.com` , contact directly if any issue about [thecatapi]
 
 <!-- news api -->
 
-https://newsapi.org/docs
+## newsapi
+
+- [newsapi]
 
 <!-- jokeapi -->
 
-https://sv443.net/jokeapi/v2/
+## jokeapi
+
+- [jokeapi]
 
 <!-- stockapi -->
 
-https://stocknewsapi.com/
+## stockapi
+
+- ~~[stocknewsapi]~~
 
 <!-- themealdb api -->
 
-https://www.themealdb.com/api.php
+## themealdb api
+- [themealdb]
 
 <!-- music api - lyrics -->
 
-https://developer.musixmatch.com/documentation
+## music api - lyrics
+- ~~[musixmatch]~~
 
 <!-- number fact api -->
 
-numbersapi.com/
+## number fact api
+- [numbersapi]
+
+
+#
+
+[nodejs]: https://nodejs.org/
+[vscode]: https://code.visualstudio.com/
+[ubuntu-18]: https://releases.ubuntu.com/18.04/
+[express]: https://www.express.com/
+[axois]: https://axios-http.com/docs/
+[tailwindcss]: https://tailwindui.com/
+[ejs]: https://ejs.co
+[apilist]: https://apilist.fun/
+[thecatapi]: https://thecatapi.com/
+[newsapi]: https://newsapi.org/docs
+[jokeapi]: https://sv443.net/jokeapi/v2/
+[stocknewsapi]: https://stocknewsapi.com/
+[themealdb]: https://www.themealdb.com/api.php
+[musixmatch]: https://developer.musixmatch.com/documentation
+[numbersapi]: numbersapi.com/
