@@ -16,7 +16,7 @@
   - [newsapi] []
   - [jokeapi] []
   - ~~[stockapi] []~~
-  - [themealdbapi] []
+  - [themealdbapi] [x]
   - ~~[musiclyricscapi] []~~
   - [numberfactapi] []
 - Implement the views for each API []
