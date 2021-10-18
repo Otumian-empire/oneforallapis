@@ -14,7 +14,7 @@
 - Integerate each API []
   - [thecatapi] []
   - [newsapi] []
-  - [jokeapi] []
+  - [jokeapi] [x]
   - ~~[stockapi] []~~
   - [themealdbapi] []
   - ~~[musiclyricscapi] []~~
