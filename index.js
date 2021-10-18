@@ -8,6 +8,7 @@ const cors = require("cors");
 
 const web = require("./web").router;
 const api = require("./api").router;
+const { router } = require("./api");
 
 const app = express();
 const port = process.env.PORT || 3000;
@@ -21,8 +22,12 @@ app.set("view engine", "ejs");
 // Static files
 app.use(express.static(path.join(__dirname, "public")));
 
+// error handlers
+router.use((req, res, next) => res.status(404).send("Sorry can't find.. 💩!"));
+router.use((req, res, next) => res.status(500).send("💩 happened 🥴"));
+
 // html page
-app.use("/", web);
+app.use("/web", web);
 
 // stand-alone API routes
 app.use("/api", api);

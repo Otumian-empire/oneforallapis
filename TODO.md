@@ -13,7 +13,7 @@
   - ~~[numberfactapi] [x]~~ No registration was needed
 - Integerate each API []
   - [thecatapi] [x]
-  - [newsapi] []
+  - [newsapi] [x]
   - [jokeapi] [x]
   - ~~[stockapi] []~~
   - [themealdbapi] [x]
