@@ -14,11 +14,11 @@
 - Integerate each API []
   - [thecatapi] []
   - [newsapi] []
-  - [jokeapi] []
+  - [jokeapi] [x]
   - ~~[stockapi] []~~
-  - [themealdbapi] []
+  - [themealdbapi] [x]
   - ~~[musiclyricscapi] []~~
-  - [numberfactapi] []
+  - [numberfactapi] [x]
 - Implement the views for each API []
   - [thecatapi] []
   - [newsapi] []
