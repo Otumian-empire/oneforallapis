@@ -12,7 +12,7 @@
   - ~~[musiclyricscapi] []~~ Too much user info is taken, , not ideal for a free projct, IMO
   - ~~[numberfactapi] [x]~~ No registration was needed
 - Integerate each API []
-  - [thecatapi] []
+  - [thecatapi] [x]
   - [newsapi] []
   - [jokeapi] [x]
   - ~~[stockapi] []~~
