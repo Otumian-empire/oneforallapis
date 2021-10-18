@@ -1,3 +1,5 @@
+require("dotenv").config();
+
 const path = require("path");
 
 const express = require("express");
@@ -9,6 +11,7 @@ const api = require("./api").router;
 const { router } = require("./api");
 
 const app = express();
+const port = process.env.PORT || 3000;
 
 app.use(cors({ optionsSuccessStatus: 200 }));
 
@@ -29,4 +32,4 @@ app.use("/web", web);
 // stand-alone API routes
 app.use("/api", api);
 
-app.listen(3000, () => console.log("App runing on localhost:3000/"));
+app.listen(port, () => console.log(`App runing on localhost:${port}/`));

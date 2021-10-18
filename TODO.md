@@ -12,13 +12,13 @@
   - ~~[musiclyricscapi] []~~ Too much user info is taken, , not ideal for a free projct, IMO
   - ~~[numberfactapi] [x]~~ No registration was needed
 - Integerate each API []
-  - [thecatapi] []
-  - [newsapi] []
-  - [jokeapi] []
+  - [thecatapi] [x]
+  - [newsapi] [x]
+  - [jokeapi] [x]
   - ~~[stockapi] []~~
-  - [themealdbapi] []
+  - [themealdbapi] [x]
   - ~~[musiclyricscapi] []~~
-  - [numberfactapi] []
+  - [numberfactapi] [x]
 - Implement the views for each API []
   - [thecatapi] []
   - [newsapi] []
